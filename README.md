@@ -23,10 +23,10 @@ A RESTful API for managing personal expenses, built with **Django** and **Django
 
 | Technology | Version |
 |------------|---------|
-| Python | 3.x |
-| Django | 6.0.7 |
-| Django REST Framework | 3.17.1 |
-| Database | SQLite |
+| Python ![Python](https://img.shields.io/badge/Python-3.x-blue)| 3.x |
+| Django ![Django](https://img.shields.io/badge/Django-6.0.7-green)| 6.0.7 |
+| Django REST Framework ![DRF](https://img.shields.io/badge/DRF-3.17.1-red)| 3.17.1 |
+| Database ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)| SQLite |
 
 ---
 
