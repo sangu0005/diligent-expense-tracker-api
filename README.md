@@ -30,6 +30,42 @@ A RESTful API for managing personal expenses, built with **Django** and **Django
 
 ---
 
+## 📂 Project Structure
+
+```text
+diligent-expense-tracker-api/
+├── config/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── expenses/
+│   ├── migrations/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+│
+├── screenshots/
+│   ├── create_expense.png
+│   ├── list_expenses.png
+│   ├── retrieve_expense.png
+│   ├── delete_expense.png
+│   └── total_by_category.png
+│
+├── AI_NOTES.md
+├── README.md
+├── manage.py
+└── requirements.txt
+```
+---
+
 ## 📂 Project Setup
 
 Clone the repository:
