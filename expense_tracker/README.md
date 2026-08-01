@@ -170,6 +170,12 @@ python manage.py test expenses
 
 ---
 
+### Delete Expense
+
+![Delete](screenshots/delete_expense.png)
+
+---
+
 ### Run Tests
 
 ![Tests](screenshots/tests.png)
