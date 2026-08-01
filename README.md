@@ -69,10 +69,9 @@ diligent-expense-tracker-api/
 ## 📂 Project Setup
 
 Clone the repository:
-
 ```bash
-git clone <repository-url>
-cd expense_tracker
+git clone https://github.com/sangu0005/diligent-expense-tracker-api.git
+cd diligent-expense-tracker-api
 ```
 
 Create and activate a virtual environment.
