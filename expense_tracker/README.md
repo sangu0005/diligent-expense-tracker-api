@@ -35,7 +35,7 @@ A RESTful API for managing personal expenses, built with **Django** and **Django
 Clone the repository:
 
 ```bash
-git clone https://github.com/sangu0005/diligent-expense-tracker-api
+git clone git clone https://github.com/sangu0005/diligent-expense-tracker-api.git expense_tracker
 cd expense_tracker
 ```
 
